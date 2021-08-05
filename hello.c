@@ -2,6 +2,7 @@
 
 int main(){
 	int x;
+	int q, y;
 	int a = x;
 	int b = x;
 	int c = a + b;
